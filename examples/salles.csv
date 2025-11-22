@@ -1,0 +1,6 @@
+id,nom,capacite,type
+1,A101,30,Salle de classe
+2,Labo1,24,Laboratoire de Physique
+3,Labo2,24,Laboratoire de Chimie
+4,Info1,20,Salle informatique
+5,Amphi,120,Amphithéâtre

@@ -1,0 +1,6 @@
+id,nom,prenom,email,specialite
+1,Dupont,Jean,jean.dupont@example.com,Mathématiques
+2,Martin,Sophie,sophie.martin@example.com,Physique
+3,Bernard,Pierre,pierre.bernard@example.com,Chimie
+4,Petit,Marie,marie.petit@example.com,Informatique
+5,Moreau,Luc,luc.moreau@example.com,Biologie
